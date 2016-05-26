@@ -2,7 +2,7 @@
 
 **Collection of secure utilities**
 
-[![Inline docs](http://inch-ci.org/github/manelli/secure.svg?branch=master)](http://inch-ci.org/github/manelli/secure)
+[![Build Status](https://api.travis-ci.org/manelli/secure.ex.svg)](https://travis-ci.org/manelli/secure.ex)
 
 ## Installation
 
