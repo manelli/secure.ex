@@ -9,7 +9,7 @@
   1. Add secure to your list of dependencies in `mix.exs`:
 
         def deps do
-          [{:secure, "~> 0.0.1"}]
+          [{:secure, "~> 0.1.0"}]
         end
 
   2. Ensure secure is started before your application:
